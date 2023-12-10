@@ -33,6 +33,8 @@ executeRound(){
 
 ### Cross-Chain
 
+![CCIP](./img/CCIP.png)
+
 We use the Cross-Chain Interoperability Protocol (CCIP) to facilitate the crucial transfer of user prediction information between the OP (Optimism) chain and the BASE hub chain. This ensures consistent game outcomes across different chains. Predictions made by players on the OP chain are not only recorded on the current chain but are also transmitted to the Base chain via CCIP.
 
 The cross-chain delay between OP and BASE is approximately 17 minutes, so we have set the duration of each round to 20 minutes. During the 'live' stage of a round, it is still possible to accept prediction information coming from cross-chain sources. After the end of the 'live' stage, an admin wallet synchronizes the ratio information of each round's outcome back to the OP chain.

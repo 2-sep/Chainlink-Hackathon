@@ -45,7 +45,7 @@ The cross-chain delay between OP and BASE is approximately 17 minutes, so we hav
 
 | name          | address                                      | info                                                                                       |
 | ------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| BaseEggCrowns | `0x6620446D71f2C3BbCa00f6E6B4E2249C205a3bbF` | [scanlink](https://goerli.basescan.org/address/0x6620446D71f2C3BbCa00f6E6B4E2249C205a3bbF) |
+| BaseEggCrowns | `0x1c998a1CB6999148214f329fD66A388549C1c7Ce` | [scanlink](https://goerli.basescan.org/address/0x1c998a1CB6999148214f329fD66A388549C1c7Ce) |
 | BaseKeeper    | `0x9ca96D8967af98a1cA3179c558640Cb709aC51CD` | [scanlink](https://goerli.basescan.org/address/0x9ca96D8967af98a1cA3179c558640Cb709aC51CD) |
 | BaseReceiver  | `0x2F630463096843b0C3709d7bE9D16D69C70E8ad8` | [scanlink](https://goerli.basescan.org/address/0x2F630463096843b0C3709d7bE9D16D69C70E8ad8) |
 
@@ -53,6 +53,6 @@ The cross-chain delay between OP and BASE is approximately 17 minutes, so we hav
 
 | name        | address                                      | info                                                                                                |
 | ----------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| OPEggCrowns | `0xD8E9f98076418d61532D5880068936F368fe99B2` | [scanlink](https://goerli-optimism.etherscan.io/address/0xD8E9f98076418d61532D5880068936F368fe99B2) |
+| OPEggCrowns | `0xCA20fC939cf20C828f8083757E1351153c542E08` | [scanlink](https://goerli-optimism.etherscan.io/address/0xCA20fC939cf20C828f8083757E1351153c542E08) |
 | OPKeeper    | `0xd5eF66B4F8De6B6913D525380a6e3408174d131D` | [scanlink](https://goerli-optimism.etherscan.io/address/0xd5eF66B4F8De6B6913D525380a6e3408174d131D) |
 | OPReceiver  | `0x71C9144A499De3AF10d4f50e920120920F2867e7` | [scanlink](https://goerli-optimism.etherscan.io/address/0x71C9144A499De3AF10d4f50e920120920F2867e7) |

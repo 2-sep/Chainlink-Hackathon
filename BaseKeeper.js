@@ -34,11 +34,11 @@ const queryContractState = async () => {
         clearInterval(intervalId);
         intervalId = setInterval(queryContractState, 10000);
       } else {
-        // 如果upkeepNeeded从true变为false，等待4分半钟后执行
+        // 如果upkeepNeeded从true变为false，等待19分钟后执行
         clearInterval(intervalId);
         setTimeout(() => {
           intervalId = setInterval(queryContractState, 10000);
-        }, 270000); // 4分半钟
+        }, 1140000); //
       }
     }
 
